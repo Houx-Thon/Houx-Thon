@@ -1,7 +1,7 @@
 FROM JMTHON-AR/JM-THON:alpine
 
 #clonning repo 
-RUN git clone https://github.com/JMTHON-AR/JM-THON.git /root/userbot
+RUN git clone https://github.com/Houx-Thon/JM-THON.get /root/userbot
 #working directory 
 WORKDIR /root/userbot
 
